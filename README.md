@@ -5,3 +5,7 @@ Third project:HR ATTRITION presentation Ce dashboard offre une vue d’ensemble 
 -la fréquence de voyage des employés
 -les heures supplémentaires
 -les années vécu au sein de l'entreprise
+
+Dans la partie developper par python :
+-On cherche la correlation existante entre l'attrition et les differents paramètres
+-On distingue 4 paramètres avec leur taux d'influence sur l'attrition:satisfaction métier - satisfaction d'environnement 
